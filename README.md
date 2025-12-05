@@ -1,3 +1,19 @@
+<p align="center">
+  <img src="https://img.shields.io/badge/AI-Agentic-blue?style=for-the-badge&logo=spark" />
+  <img src="https://img.shields.io/badge/Web%20Scraping-Automated-green?style=for-the-badge&logo=python" />
+  <img src="https://img.shields.io/badge/Report-Auto--Generated-orange?style=for-the-badge&logo=adobeacrobatreader" />
+  <img src="https://img.shields.io/badge/Python-3.10+-yellow?style=for-the-badge&logo=python" />
+  <img src="https://img.shields.io/badge/LLM-Powered-purple?style=for-the-badge&logo=openai" />
+</p>
+
+<p align="center">
+  <img width="100%" src="https://dummyimage.com/1200x260/0f172a/ffffff&text=InsightLoop.AI+-+Autonomous+Web+Research+Agent" />
+</p>
+
+<h1 align="center">🔍 InsightLoop.AI</h1>
+<p align="center">Autonomous Web Research & Insight Generation Agent</p>
+
+
 🚀 **InsightLoop.AI – Autonomous Web Research Agent**
 
 **Give it a question. It explores the web, extracts structured insights, and delivers a PDF report — autonomously.**
